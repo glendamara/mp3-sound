@@ -13,6 +13,6 @@
 <ul>
 <li>Execute o script no terminal:
  python mp3.py</li>
-<li>Em seguida, o Player tocará automaticamente, reproduzindo o Player.</li>
+<li>Em seguida, o Player tocará automaticamente, reproduzindo o áudio.</li>
  <li>Caso deseje parar a música, escreva pause no terminal, e aperte Enter.</li>
 </ul>
