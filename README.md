@@ -8,9 +8,7 @@
 
 <h2>Instalação e Uso.</h2>
 
-<p> Clone o repositório no terminal com o seguinte código:
-  <link>src=git clone <https://github.com/glendamara/mp3-sound.git></link>
-</p>
+<a href="URL_DO_REPOSITORIO" target="_blank">Link para clonar o repositório</a>
 
 <ul>
 <li>Execute o script no terminal:
