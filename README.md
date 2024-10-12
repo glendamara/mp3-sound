@@ -9,7 +9,7 @@
 <h2>Instalação e Uso.</h2>
 
 <p> Clone o repositório no terminal com o seguinte código:
-  git clone <https://github.com/glendamara/mp3-sound.git>
+  "git clone <https://github.com/glendamara/mp3-sound.git>"
 </p>
 
 <ul>
