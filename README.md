@@ -1,7 +1,7 @@
 <h1> # Projeto de reprodução mp3, com Python.</h1>
 <br>
 
-<h2>Requisitos de funcionamento.<h2>
+<h2>Requisitos de funcionamento.</h2>
 
  <p><ul>
   <li>Ter a biblioteca pygame baixada. (Utilize o comando 'pip install pygame', no terminal.)</li>
